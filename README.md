@@ -1,2 +1,8 @@
-# Laravel
-Laravel + Breeze starter-kit
+# Laravel CMS
+Laravel Content Management System starter-kit
+
+### Stack (TALL)
+* TailWind CSS
+* Alphin JS
+* Laravel + Breeze (PHP OOP)
+* Livewire
